@@ -1,0 +1,28 @@
+name: Discontent
+favicon: null
+layout_spectrum: 0.04448027955368161
+typography_spectrum: 0.04041944467462599
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5193193415179849
+  lightness: 0.3079310958273709
+  saturation: 0.9830822674557567
+  rhythmicContrast: 0.9811007420066744
+purpose: []
